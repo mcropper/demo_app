@@ -1,0 +1,20 @@
+Strengths
+
+High-level overview of Rails
+Introduction to MVC
+First taste of the REST architecture
+Beginning data modeling
+A live, database-backed web application in production
+Weaknesses
+
+No custom layout or styling
+No static pages (like “Home” or “About”)
+No user passwords
+No user images
+No signing in
+No security
+No automatic user/micropost association
+No notion of “following” or “followed”
+No micropost feed
+No test-driven development
+No real understanding
